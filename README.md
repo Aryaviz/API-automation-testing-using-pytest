@@ -1,7 +1,7 @@
 # API-automation-testing-using-pytest
 This is a comprehensive API automation testing framework for the Restful Booker API (https://restful-booker.herokuapp.com) built with pytest.
 API automation testing using pytest
-This is a comprehensive API automation testing framework for the Restful Booker API (https://restful-booker.herokuapp.com) built with pytest.
+
 Reference for API links :BMayhew/awesome-sites-to-test-on: A curated list of sites to practice testing on 
 Objectives
 Verify authentication mechanism works correctly
